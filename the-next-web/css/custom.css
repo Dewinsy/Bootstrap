@@ -1,0 +1,54 @@
+.custom-nav{
+    background: #131313;
+    max-height: 32px;
+    font-size:13px;
+    color:rgba(255,255,255,.5); 
+}
+.custom-nav-item:hover{
+    color:#fff;
+
+}
+.custom-right-nav{
+    color:rgba(255,255,255,.5); 
+
+}
+.custom-right-nav:hover{
+   color:#fff;
+
+}
+.custom-search{
+    margin-left:60rem;
+    
+}
+.custom-p-tag{
+    background-color:rgba(250, 208, 23, 0.959);
+    padding:5px;
+    padding-left:1rem;
+    font-size:13px;
+}
+.custom-row{
+    border: 1px solid black;
+}
+.big-box{
+    height:100%;
+    width:relative;
+    margin-bottom: 0.5rem;
+    margin-left: 0.5rem;
+    padding-right:0%;
+    border-radius: 0%;
+    background-color: none;
+    
+}
+.small-box{
+    height:50%;
+    width:relative;
+    margin-bottom: 0.5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    padding-right:0%;
+    border-radius: 0%;
+    
+
+}
+
+
